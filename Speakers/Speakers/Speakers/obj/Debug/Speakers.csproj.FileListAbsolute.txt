@@ -1,0 +1,92 @@
+\\vmware-host\Shared Folders\Documents\My Data\Business\AlecTucker.com\TechEd 2014\Code\beta2\1\Speakers\Speakers\Speakers\bin\Debug\Speakers.dll
+\\vmware-host\Shared Folders\Documents\My Data\Business\AlecTucker.com\TechEd 2014\Code\beta2\1\Speakers\Speakers\Speakers\bin\Debug\Speakers.pdb
+\\vmware-host\Shared Folders\Documents\My Data\Business\AlecTucker.com\TechEd 2014\Code\beta2\1\Speakers\Speakers\Speakers\bin\Debug\Xamarin.Forms.Core.dll
+\\vmware-host\Shared Folders\Documents\My Data\Business\AlecTucker.com\TechEd 2014\Code\beta2\1\Speakers\Speakers\Speakers\bin\Debug\Xamarin.Forms.Xaml.dll
+\\vmware-host\Shared Folders\Documents\My Data\Business\AlecTucker.com\TechEd 2014\Code\beta2\1\Speakers\Speakers\Speakers\bin\Debug\Xamarin.Forms.Core.xml
+\\vmware-host\Shared Folders\Documents\My Data\Business\AlecTucker.com\TechEd 2014\Code\beta2\1\Speakers\Speakers\Speakers\bin\Debug\Xamarin.Forms.Xaml.xml
+\\vmware-host\Shared Folders\Documents\My Data\Business\AlecTucker.com\TechEd 2014\Code\beta2\1\Speakers\Speakers\Speakers\obj\Debug\Speakers.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\My Data\Business\AlecTucker.com\TechEd 2014\Code\beta2\1\Speakers\Speakers\Speakers\obj\Debug\Speakers.dll
+\\vmware-host\Shared Folders\Documents\My Data\Business\AlecTucker.com\TechEd 2014\Code\beta2\1\Speakers\Speakers\Speakers\obj\Debug\Speakers.pdb
+\\vmware-host\Shared Folders\Documents\My Data\Business\AlecTucker.com\TechEd 2014\Code\beta2\1\Speakers\Speakers\Speakers\obj\Debug\SpeakersView.xaml.g.cs
+\\vmware-host\Shared Folders\Documents\My Data\Business\AlecTucker.com\TechEd 2014\Code\beta2\2\Speakers\Speakers\Speakers\bin\Debug\Speakers.dll
+\\vmware-host\Shared Folders\Documents\My Data\Business\AlecTucker.com\TechEd 2014\Code\beta2\2\Speakers\Speakers\Speakers\bin\Debug\Speakers.pdb
+\\vmware-host\Shared Folders\Documents\My Data\Business\AlecTucker.com\TechEd 2014\Code\beta2\2\Speakers\Speakers\Speakers\bin\Debug\Xamarin.Forms.Core.dll
+\\vmware-host\Shared Folders\Documents\My Data\Business\AlecTucker.com\TechEd 2014\Code\beta2\2\Speakers\Speakers\Speakers\bin\Debug\Xamarin.Forms.Xaml.dll
+\\vmware-host\Shared Folders\Documents\My Data\Business\AlecTucker.com\TechEd 2014\Code\beta2\2\Speakers\Speakers\Speakers\bin\Debug\Xamarin.Forms.Core.xml
+\\vmware-host\Shared Folders\Documents\My Data\Business\AlecTucker.com\TechEd 2014\Code\beta2\2\Speakers\Speakers\Speakers\bin\Debug\Xamarin.Forms.Xaml.xml
+\\vmware-host\Shared Folders\Documents\My Data\Business\AlecTucker.com\TechEd 2014\Code\beta2\2\Speakers\Speakers\Speakers\obj\Debug\Speakers.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\My Data\Business\AlecTucker.com\TechEd 2014\Code\beta2\2\Speakers\Speakers\Speakers\obj\Debug\SpeakersView.xaml.g.cs
+\\vmware-host\Shared Folders\Documents\My Data\Business\AlecTucker.com\TechEd 2014\Code\beta2\2\Speakers\Speakers\Speakers\obj\Debug\Speakers.dll
+\\vmware-host\Shared Folders\Documents\My Data\Business\AlecTucker.com\TechEd 2014\Code\beta2\2\Speakers\Speakers\Speakers\obj\Debug\Speakers.pdb
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\bin\Debug\Speakers.dll.config
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\bin\Debug\Speakers.dll
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\bin\Debug\Speakers.pdb
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\bin\Debug\Newtonsoft.Json.dll
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\bin\Debug\SQLitePCL.dll
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\bin\Debug\System.Net.Http.dll
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\bin\Debug\System.Net.Http.Extensions.dll
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\bin\Debug\System.Net.Http.Primitives.dll
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\bin\Debug\Xamarin.Forms.Core.dll
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\bin\Debug\Newtonsoft.Json.xml
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\bin\Debug\System.Net.Http.xml
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\bin\Debug\System.Net.Http.Extensions.xml
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\bin\Debug\System.Net.Http.Primitives.xml
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\bin\Debug\Xamarin.Forms.Core.xml
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\obj\Debug\Speakers.csproj.App.config
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\obj\Debug\Speakers.csprojResolveAssemblyReference.cache
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\obj\Debug\SpeakersView.xaml.g.cs
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\obj\Debug\Speakers.dll
+C:\TechEd2014\Code\beta2\3\Speakers\Speakers\Speakers\obj\Debug\Speakers.pdb
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\bin\Debug\Speakers.dll.config
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\bin\Debug\Speakers.dll
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\bin\Debug\Speakers.pdb
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\bin\Debug\Newtonsoft.Json.dll
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\bin\Debug\SQLitePCL.dll
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\bin\Debug\System.Net.Http.dll
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\bin\Debug\System.Net.Http.Extensions.dll
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\bin\Debug\System.Net.Http.Primitives.dll
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\bin\Debug\Xamarin.Forms.Core.dll
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\bin\Debug\Newtonsoft.Json.xml
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\bin\Debug\System.Net.Http.xml
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\bin\Debug\System.Net.Http.Extensions.xml
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\bin\Debug\System.Net.Http.Primitives.xml
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\bin\Debug\Xamarin.Forms.Core.xml
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\obj\Debug\Speakers.csproj.App.config
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\obj\Debug\Speakers.csprojResolveAssemblyReference.cache
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\obj\Debug\SpeakersView.xaml.g.cs
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\obj\Debug\Speakers.dll
+C:\TechEd2014\Code\live\3\Speakers\Speakers\Speakers\obj\Debug\Speakers.pdb
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\bin\Debug\Speakers.dll.config
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\bin\Debug\Speakers.dll
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\bin\Debug\Speakers.pdb
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\bin\Debug\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\bin\Debug\SQLitePCL.dll
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\bin\Debug\System.Net.Http.dll
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\bin\Debug\System.Net.Http.Extensions.dll
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\bin\Debug\System.Net.Http.Primitives.dll
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\bin\Debug\Xamarin.Forms.Core.dll
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\bin\Debug\Xamarin.Forms.Xaml.dll
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\bin\Debug\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\bin\Debug\System.Net.Http.xml
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\bin\Debug\System.Net.Http.Extensions.xml
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\bin\Debug\System.Net.Http.Primitives.xml
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\bin\Debug\Xamarin.Forms.Core.xml
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\bin\Debug\Xamarin.Forms.Xaml.xml
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\obj\Debug\Speakers.csproj.App.config
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\obj\Debug\SpeakersView.xaml.g.cs
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\obj\Debug\Speakers.dll
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\obj\Debug\Speakers.pdb
+\\vmware-host\Shared Folders\Documents\TechEd2014\live\3\Speakers\Speakers\Speakers\obj\Debug\Speakers.csprojResolveAssemblyReference.cache

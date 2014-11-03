@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+					   xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+					   x:Class="Speakers.Views.SpeakersView"
+             Title="{Binding Title}"
+             >
+  <StackLayout>
+    <!-- Windows Phone Screen Title -->
+    <Label Text="{Binding Title}" IsVisible="{Binding IsWindowsPhone}" HorizontalOptions="Start" >
+      <Label.Font>
+        <OnPlatform x:TypeArguments="Font">
+          <OnPlatform.WinPhone>Large</OnPlatform.WinPhone>
+        </OnPlatform>
+      </Label.Font>
+    </Label>
+
+    <ListView ItemsSource="{Binding Speakers}">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <TextCell Text="{Binding LastName}" Detail="{Binding FirstName}" />
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+  </StackLayout>
+</ContentPage>

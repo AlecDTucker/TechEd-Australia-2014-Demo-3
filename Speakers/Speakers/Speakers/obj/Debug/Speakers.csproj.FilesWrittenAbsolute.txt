@@ -1,0 +1,16 @@
+/Users/atucker/Documents/TechEd2014/live/3/Speakers/Speakers/Speakers/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/atucker/Documents/TechEd2014/live/3/Speakers/Speakers/Speakers/obj/Debug/Speakers.Views.SpeakersView.xaml
+/Users/atucker/Documents/TechEd2014/live/3/Speakers/Speakers/Speakers/obj/Debug/SpeakersView.xaml.g.cs
+/Users/atucker/Documents/TechEd2014/live/3/Speakers/Speakers/Speakers/bin/Debug/Speakers.dll.mdb
+/Users/atucker/Documents/TechEd2014/live/3/Speakers/Speakers/Speakers/bin/Debug/Speakers.dll
+/Users/atucker/Documents/TechEd2014/live/3/Speakers/Speakers/Speakers/obj/Debug/Speakers.dll
+/Users/atucker/Documents/TechEd2014/live/3/Speakers/Speakers/Speakers/obj/Debug/Speakers.dll.mdb
+/Users/atucker/Documents/TechEd2014/live/3/Speakers/Speakers/Speakers/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/atucker/Documents/TechEd2014/live/3/Speakers/Speakers/Speakers/bin/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+/Users/atucker/Documents/TechEd2014/live/3/Speakers/Speakers/Speakers/bin/Debug/Newtonsoft.Json.dll
+/Users/atucker/Documents/TechEd2014/live/3/Speakers/Speakers/Speakers/bin/Debug/SQLitePCL.dll
+/Users/atucker/Documents/TechEd2014/live/3/Speakers/Speakers/Speakers/bin/Debug/System.Net.Http.dll
+/Users/atucker/Documents/TechEd2014/live/3/Speakers/Speakers/Speakers/bin/Debug/System.Net.Http.Extensions.dll
+/Users/atucker/Documents/TechEd2014/live/3/Speakers/Speakers/Speakers/bin/Debug/System.Net.Http.Primitives.dll
+/Users/atucker/Documents/TechEd2014/live/3/Speakers/Speakers/Speakers/bin/Debug/Xamarin.Forms.Core.dll
+/Users/atucker/Documents/TechEd2014/live/3/Speakers/Speakers/Speakers/bin/Debug/Xamarin.Forms.Xaml.dll
